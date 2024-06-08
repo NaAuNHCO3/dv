@@ -1,0 +1,11 @@
+{
+    "4": {"name": "Afghanistan", "publications": 50},
+    "8": {"name": "Albania", "publications": 200},
+    "12": {"name": "Algeria", "publications": 300},
+    "20": {"name": "Andorra", "publications": 10},
+    "24": {"name": "Angola", "publications": 150},
+    "28": {"name": "Antigua and Barbuda", "publications": 5},
+    "32": {"name": "Argentina", "publications": 500},
+    "36": {"name": "Australia", "publications": 800},
+    "40": {"name": "Austria", "publications": 400}
+}

@@ -1,0 +1,137 @@
+#note {
+    color: gray;
+    font-size: small;
+    font-style: oblique;
+    margin-left: 120px;
+    margin-right: 120px;
+    text-align: left;
+   
+}
+#conclusion {
+    margin-left: 120px;
+    margin-right: 120px;
+    text-align: left;
+  }
+.h4, h4 {
+    font-size: calc(1.275rem + .3vw);
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+}
+
+div#reason {
+    color: gray;
+    font-size: small;
+    font-style: oblique;
+    margin-left: 120px;
+    margin-right: 120px;
+    text-align: left;
+}
+div#reason1 {
+    margin-left: 120px;
+    margin-right: 120px;
+    text-align: left;
+}
+div#d3-container {
+    text-align: center;
+}
+div#d3-container1 {
+    text-align: center;
+}
+h2 {
+    font-weight: 900;
+    text-align: center;
+}
+div#cn2re {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+div#method {
+    text-align: center;
+}
+
+div#jourre {
+    text-align: left;
+    color: gray;
+    font-size: small;
+    font-style: oblique;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 20px;
+}
+div#jourre1 {
+    text-align: left;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+div#d3container {
+    text-align: center;
+}
+div#subrre {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+path.line {
+    fill: none;
+
+}
+div#d33container {
+    text-align: center;
+}
+#d34container {
+    text-align: center;
+}
+#intro {
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 40px;
+  }
+body {
+    background: lightgray;
+  }
+  
+h3 {
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bolder;
+  }
+.state {
+    background: white;
+    margin: 100px;
+  }
+.res {
+    background: white;
+    margin: 100px;
+  }
+.move {
+    background: white;
+    margin: 100px;
+  }
+  #jourre12 {
+    margin-right: 240px;
+  }
+.tooltip {
+    background-color: white;
+    padding: 10px;
+  }
+#subre12 {
+    margin-right: 240px;
+}
+#cn2re1 {
+    font-size: small;
+    color: gray;
+    font-style: oblique;
+  }
+circle {
+    fill: lightblue;
+}
+div#d3-container333 {
+    text-align: center;
+}
+#note1 {
+    margin-top: 30px;
+    margin-left: 120px;
+    margin-right: 120px;
+    text-align: left;
+   
+}
